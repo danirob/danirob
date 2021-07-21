@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danirob
+- 👋 Hi, I’m @senam
 - 👀 I’m interested in web development and mobile app development projects.
 - 🌱 I’m currently learning cut-edge technologies.
 - 💞️ I’m looking to collaborate on enterprise level applications, teams.
